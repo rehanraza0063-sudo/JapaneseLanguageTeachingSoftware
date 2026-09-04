@@ -10,4 +10,6 @@ vocabulary - http://localhost:8024/
 
 kanji stroke practice - http://localhost:8025/
 
-Number Teacher - http://localhost:8026/
+number teacher - http://localhost:8026/
+
+greetings & basic sentences - http://localhost:8027/
