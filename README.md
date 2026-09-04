@@ -15,3 +15,5 @@ number teacher - http://localhost:8026/
 greetings & basic sentences - http://localhost:8027/
 
 vocabulary flashcard - http://localhost:8028/
+
+JLPT n5 - http://localhost:8029/
