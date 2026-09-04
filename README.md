@@ -1,4 +1,5 @@
 # JapaneseLanguageTeachingSoftware
+# before Running code paste this in terminal(vs code) - pip install flask
 
 hiragana -  http://localhost:8021/
 
