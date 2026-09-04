@@ -13,3 +13,5 @@ kanji stroke practice - http://localhost:8025/
 number teacher - http://localhost:8026/
 
 greetings & basic sentences - http://localhost:8027/
+
+vocabulary flashcard - http://localhost:8028/
